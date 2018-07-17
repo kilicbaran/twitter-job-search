@@ -1,0 +1,10 @@
+.idea/
+venv/
+.secrets.yaml
+__pycache__/
+Procfile
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
